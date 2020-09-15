@@ -1,0 +1,13 @@
+public class AddSubofTwoNumbers {
+
+   public static void main(String[] args)
+   {
+   int num1=5, num2=15,sum,sub;
+      sum=num1+num2;
+      sub=num1-num2;
+      System.out.println("Sum of 2 numbers: "+sum);
+      System.out.println("Sub of 2 numbers: "+sub);
+        
+      
+   }
+}
